@@ -1,0 +1,15 @@
+//
+//  my-weibo.pch
+//  my-weibo
+//
+//  Created by lyt on 15/3/10.
+//  Copyright (c) 2015年 lyt. All rights reserved.
+//
+
+#ifndef my_weibo_my_weibo_pch
+#define my_weibo_my_weibo_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
